@@ -1,0 +1,6 @@
+1. git init
+2. git add [.(whatever inside the directoy) / filename]
+3. git commit -m "[commit]"
+4. git log ->  (Check the commits)
+5. git status
+6. git checkout [filename] (Go back to last commit)
