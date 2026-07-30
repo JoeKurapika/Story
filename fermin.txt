@@ -4,3 +4,6 @@
 4. git log ->  (Check the commits)
 5. git status
 6. git checkout [filename] (Go back to last commit)
+7. git branch [new_branch] -> creates a new branch
+8. git branch -> look at the current branches
+9. git checkout [branch_name] -> go to branch_name
